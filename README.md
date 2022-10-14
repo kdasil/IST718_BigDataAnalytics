@@ -3,7 +3,7 @@
 ## Course Description
 A broad introduction to analytical processing tools and techniques for information professionals. Students will develop a portfolio of resources, demonstrations, recipes, and examples of various analytical techniques. You will find if much easier to succeed if you have completed IST687, IST777 or both. Familiarity with command-line interfaces, basic quantitative skills, including statistics, as well as programming skills with languages such as R or Python. Most of the course work will be using Python, Spark, and Tensorflow.
 
-## Learning Objectives:
+## Learning Objectives
 During the course, we will emphasize:
 - Experiential learning through reading and practical exercises.
 - Collaborative learning through online discussions between instructors and peers.
